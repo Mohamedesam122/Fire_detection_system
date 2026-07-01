@@ -1,8 +1,10 @@
 # 🔥 Fire Detection System
 
 An end-to-end AI-powered fire detection system built using YOLOv8 and FastAPI. The project covers the complete machine learning lifecycle, from dataset preparation and model training to deployment and API integration for real-time fire detection.
-<img width="1920" height="935" alt="image" src="https://github.com/user-attachments/assets/a445b211-785f-463d-9218-7b990422d7b2" />
-<img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/b104b4ca-b1a1-4db8-9ccc-b91c77e51d35" />
+<img width="1895" height="907" alt="image" src="https://github.com/user-attachments/assets/8ece3891-b3b6-4e86-8f30-f4b3d8635eea" />
+<img width="1886" height="927" alt="image" src="https://github.com/user-attachments/assets/2bae76a9-3364-44ff-afeb-e28bb4890332" />
+
+
 
 
 ## 🚀 Overview
