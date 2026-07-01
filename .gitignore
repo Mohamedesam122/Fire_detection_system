@@ -1,0 +1,24 @@
+# Virtual environments
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# YOLO outputs
+runs/
+
+# Temporary files
+temp_uploaded_video.mp4
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
